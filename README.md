@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FadyHassanein
 - 👀 I’m interested in learning from experts
 - 🌱 I’m currently learning Rust programming 
-- 💞️ I’m looking to collaborate on optimization using rust programming
 - 📫 How to reach me fadytarekg@gmail.com
 
 <!---
