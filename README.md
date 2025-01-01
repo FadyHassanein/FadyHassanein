@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FadyHassanein
 - 👀 I’m interested in learning from experts
-- 🌱 I’m currently learning Rust programming 
+- 🌱 I’m currently implementing Data science prjects
 - 📫 How to reach me fadytarekg@gmail.com
 
 <!---
