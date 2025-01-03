@@ -1,4 +1,4 @@
-# Welcome to Fady Hassanein's GitHub Profile! 👋
+# Welcome to my Profile! 👋
 
 ## About Me
 
