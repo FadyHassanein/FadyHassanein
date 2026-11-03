@@ -82,13 +82,6 @@ RAG over your PDFs with **zero data leaving the machine** — DeepSeek-R1 served
 
 ---
 
-## Stats
-
-![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadyHassanein&show_icons=true&theme=radical&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FadyHassanein&layout=compact&theme=radical&langs_count=8)
-
----
-
 ## Contact
 
 📍 Egypt · open to AI / ML engineering roles and collaborations
