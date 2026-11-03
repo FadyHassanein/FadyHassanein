@@ -94,3 +94,4 @@ RAG over your PDFs with **zero data leaving the machine** — DeepSeek-R1 served
 📍 Egypt · open to AI / ML engineering roles and collaborations
 
 - 📧 **[fadyhass3@gmail.com](mailto:fadyhass3@gmail.com)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/fady-tarek-f1t1/)**
